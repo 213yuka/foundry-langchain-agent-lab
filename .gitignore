@@ -1,0 +1,14 @@
+# ローカル専用の付録（旧 01_migration-report / 02_multi-agent と関連スクリプト）
+appendix/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# シークレット
+.env
+
+# 生成物
+*.pptx
+*.mp3
