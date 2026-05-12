@@ -1,6 +1,10 @@
 # ローカル専用の付録
 appendix/
 
+# エディタ・ワークスペース設定（ローカル専用）
+.vscode/
+.github/
+
 # Python
 .venv/
 __pycache__/
